@@ -282,6 +282,5 @@ def start_end():
 
 
 
-#Multi threading set to false to keep the results simplified.
 if __name__ == '__main__':
     app.run(debug=True, threaded=False)
